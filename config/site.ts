@@ -1,10 +1,10 @@
 export const siteConfig = {
-  name: "Color Palettes",
+  name: "Color Zen",
   url: "",
   ogImage: "",
   description: "Create and save color palettes",
   externalLinks: {
-    github: "https://github.com/jeffdiers/kickoff-color-picker-2023-08-08",
+    github: "https://github.com/jeffdiers/color-zen",
   },
   navLinks: [
     {
