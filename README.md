@@ -1,1 +1,1 @@
-# color-zen
+# Color Zen
